@@ -13,7 +13,12 @@ header {
     padding: 10px;
 }
 
-#intro {
+#intro,
+#raspberry-pi-solution,
+#impact,
+#skills,
+#ready-for-action,
+#see-it-in-action {
     margin-bottom: 20px;
 }
 
