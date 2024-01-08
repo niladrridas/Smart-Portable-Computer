@@ -1,5 +1,7 @@
 # Raspberry Pi Card-Sized Helpdesk & Server
 
+<img src="https://raw.githubusercontent.com/niladrigithub/raspberry-pi-helpdesk-server/main/project-image.png" alt="Image" width="200">
+
 Welcome to the innovation that transforms a humble Raspberry Pi 4 B into a pocket-sized powerhouse. Say hello to the **Raspberry Pi Card-Sized Helpdesk & Server** – a revolutionary solution to IT management challenges.
 
 ## The Challenge:
