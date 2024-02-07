@@ -1,30 +1,55 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    margin: 20px;
+    margin: 20px auto;
     max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 0 20px;
 }
 
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px;
+    padding: 15px 20px;
+    text-align: center;
 }
 
-#intro,
-#raspberry-pi-solution,
-#impact,
-#skills,
-#ready-for-action,
-#see-it-in-action {
-    margin-bottom: 20px;
+section {
+    margin-bottom: 30px;
 }
 
 #project-image {
     max-width: 100%;
     height: auto;
     display: block;
-    margin-top: 20px;
+    margin: 20px auto;
+}
+
+#intro p,
+#raspberry-pi-solution p,
+#impact p,
+#skills p,
+#ready-for-action p,
+#see-it-in-action p {
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
