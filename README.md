@@ -1,8 +1,8 @@
-# Raspberry Pi Card-Sized Helpdesk & Server
+# Smart Portable Computer
 
 <img src="https://raw.githubusercontent.com/niladrigithub/raspberry-pi-helpdesk-server/main/project-image.png" alt="Image" width="200">
 
-Welcome to the innovation that transforms a humble Raspberry Pi 4 B into a pocket-sized powerhouse. Say hello to the **Raspberry Pi Card-Sized Helpdesk & Server** – a revolutionary solution to IT management challenges.
+Welcome to the innovation that transforms a humble Raspberry Pi 4 B into a pocket-sized powerhouse. Say hello to the **Smart Portable Computer** – a revolutionary solution to IT management challenges.
 
 ## The Challenge:
 
@@ -38,8 +38,8 @@ Building this project honed skills in:
 
 ## Ready for Action:
 
-This Raspberry Pi project is a testament to resourcefulness and innovation. Transforming a tiny board into a powerful helpdesk & server proves that a big impact can come in small packages. I'm eager to bring this same ingenuity and problem-solving mindset to your team.
+This Raspberry Pi project is a testament to resourcefulness and innovation. Transforming a tiny board into a powerful Smart Portable Computer proves that a big impact can come in small packages. I'm eager to bring this same ingenuity and problem-solving mindset to your team.
 
-Curious to see it in action? Let's showcase the Raspberry Pi Card-Sized Helpdesk and server and discuss how my skills can benefit your organization.
+Curious to see it in action? Let's showcase the Smart Portable Computer and discuss how my skills can benefit your organization.
 
 Please feel free to let me know more based on your preferences and the specific requirements you're targeting.
