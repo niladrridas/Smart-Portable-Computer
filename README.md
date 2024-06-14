@@ -1,6 +1,6 @@
 # Smart Portable Computer
 
-<img src="https://raw.githubusercontent.com/niladrigithub/raspberry-pi-helpdesk-server/main/project-image.png" alt="Image" width="200">
+https://raw.githubusercontent.com/niladrridas/device/main/project-image.png
 
 Welcome to the innovation that transforms a humble Raspberry Pi 4 B into a pocket-sized powerhouse. Say hello to the **Smart Portable Computer** – a revolutionary solution to IT management challenges.
 
