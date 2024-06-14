@@ -1,7 +1,5 @@
 # Smart Portable Computer
 
-https://raw.githubusercontent.com/niladrridas/device/main/project-image.png
-
 Welcome to the innovation that transforms a humble Raspberry Pi 4 B into a pocket-sized powerhouse. Say hello to the **Smart Portable Computer** – a revolutionary solution to IT management challenges.
 
 ## The Challenge:
